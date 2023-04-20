@@ -1,2 +1,2 @@
-# 2blog.github.io
-https://2blog.github.io/
+# 3love.github.io
+https://3love.github.io/
